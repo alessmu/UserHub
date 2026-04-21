@@ -2,6 +2,8 @@
 
 React project configured with **Vite** and **TailwindCSS**.
 
+![Landing Page](./assets/UserHub.png)
+
 ---
 
 ## Technologies Used
